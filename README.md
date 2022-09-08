@@ -13,7 +13,11 @@ Uppgiften lämnas in i tid! ✅
 Link to repo: https://github.com/niki-van13/Socket-chatt
 
 Installing:
-Open project in your code editor
+
+Open project in your code editor.
+
 Open terminal. Make sure you are standing in the "server" folder.
+
 Npm i
+
 node server.js
